@@ -18,7 +18,7 @@
   - Onde usar cada uma das Tags (Com marcação de cor para diferenciação)
 - Breve explicação sobre CSS3
   - Como fazer a conexão entre HTML e CSS para que uma atribuição de style pegue nos elementos do HTML
-- Links de Materiais na descrição do video. 
+- Links de Materiais e redes sociais na descrição do video. 
     -  <a target="_blank" href="https://www.w3schools.com/html/html_intro.asp">Link HTML W3Schools</a>
     -  <a target="_blank" href="https://www.youtube.com/channel/UCYiGAI9Oq0Ky9HQ6cskhPvg">Link Youtube</a>    
     -  <a target="_blank" href="https://github.com/TioArthurPrado">Link Git Hub</a>    
