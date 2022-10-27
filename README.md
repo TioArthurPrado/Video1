@@ -1,6 +1,6 @@
 # Video1 - Introdução ao HTML
 
--- Olá, turma. Todos bem??? Neste Vídeo abordaremos alguns conteúdos referentes ao HTML5.
+## Olá, turma. Todos bem??? Neste Vídeo abordaremos alguns conteúdos referentes ao HTML5.
 
 - Como criar e abrir o index.html 
 - Como criar arquivos no VsCode
